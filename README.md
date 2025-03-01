@@ -20,11 +20,11 @@ Currently, it is only available on Windows, but if you know what you doing and w
 2. Make sure you install Python 3.13.2 or the latest
 3. Then install pyinstaller by opening CMD.exe and typing `pip install pyinstaller`
 4. After that run the build.bat
-5. and you're done, you can start using the software like method 2 on part 
+5. And you're done, you can start using the software like method 2 on part 
 
 ### Method 2 "Download and Run"
 1. Download the release version of GodotNavmeshConverter.exe
-2. after that drag and drop the obj. or .tres file to the GodotNavmeshConverter.exe
+2. After that drag and drop the obj. or .tres file to the GodotNavmeshConverter.exe
 3. Wait and done
 
 I might not gonna update this repo unless Godot updates how .tres works and breaks the compatibility or I find a bug. so like I said it is mostly for personal use but you are allowed to copy and use it for anything you want.
