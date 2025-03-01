@@ -27,4 +27,4 @@ Currently, it is only available on Windows, but if you know what you doing and w
 2. after that drag and drop the obj. or .tres file to the GodotNavmeshConverter.exe
 3. Wait and done
 
-I might not gonna update this repo unless Godot updates how .tres works and breaks the compatibility or I find a bug. so like I said it is mostly for personal use but you are allowed to copy and do it for anything you want.
+I might not gonna update this repo unless Godot updates how .tres works and breaks the compatibility or I find a bug. so like I said it is mostly for personal use but you are allowed to copy and use it for anything you want.
