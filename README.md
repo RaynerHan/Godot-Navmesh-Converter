@@ -3,10 +3,10 @@ Simple tool to convert Godot Navmeshes .tres into .obj or vise versa.
 
 [![icon.png](https://i.postimg.cc/WpGZCbhw/icon.png)](https://postimg.cc/LhshZSkJ)
 
-It actually for personal use but it would be better if I share it with the public and also keep it as backup.
+It is actually for personal use, but it would be better if I share it with the public and also keep it as a backup.
 
 ## Why did I make this?
-I prefer to edit the navmesh on Blender and even optimize it using Meshlab or any polygon simplification algorithm so it won't make too much polygon, but it I also really like to use Godot Bake Mesh and then convert to obj as a starting point.
+I prefer to edit the navmesh on Blender and even optimize it using Meshlab or any polygon simplification algorithm so it won't make too much polygon, but I also really like to use Godot Bake Navmeshes and then convert to obj as a starting point for further edit.
 
 ## Can you use it for a project or any?
 Yeah, I put it on the MIT license so you can use it for anything, for use it as I use it or fork it to make a better version than I create or somehow integrate it into Godot addons and Blender plugins, it all fine by me.
